@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 import project1 from "@/assets/proj5.png";
 import project2 from "@/assets/proj6.png";
@@ -36,8 +36,6 @@ const projects = [
 
 function Portfolio() {
   const [selectedProject, setSelectedProject] = useState(projects[0]);
-
-  useEffect(() => {}, []);
 
   return (
     <section id="portfolio" className="py-32 text-white">
