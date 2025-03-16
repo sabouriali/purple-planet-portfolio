@@ -38,7 +38,7 @@ function Portfolio() {
   const [selectedProject, setSelectedProject] = useState(projects[0]);
 
   return (
-    <section id="portfolio" className="py-32 text-white">
+    <section id="portfolio" className="py-32 bg-black text-white">
       <div className="max-w-7xl mx-auto px-4 grid lg:grid-cols-2 gap-12">
         <div>
           <h2 className="text-6xl font-bold mb-10">
