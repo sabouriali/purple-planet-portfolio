@@ -14,25 +14,25 @@ function About() {
         <div className="border border-white/20 rounded-lg p-6">
           <h3 className="text-2xl font-bold mb-2">01. Background</h3>
           <p className="text-white/50 mb-6">
-            I&#39;m a passionate full-stack developer with a strong foundation in
-            computer science and a love for creating innovative web solutions.
-            My journey in tech started with a curiosity about how things work,
-            which led me to pursue a career in web development.
+            I&#39;m a passionate full-stack developer with a strong foundation
+            in computer science and a love for creating innovative web
+            solutions. My journey in tech started with a curiosity about how
+            things work, which led me to pursue a career in web development.
           </p>
           <div className="rounded-lg p-4 mb-4 border border-white/20">
             <code className="text-purple-200/50">
               const skills = [<br />
-              &nbsp;&nbsp;'JavaScript',
+              &nbsp;&nbsp;&#39;JavaScript&#39;,
               <br />
-              &nbsp;&nbsp;'React',
+              &nbsp;&nbsp;&#39;React&#39;,
               <br />
-              &nbsp;&nbsp;'Node.Js',
+              &nbsp;&nbsp;&#39;Node.Js&#39;,
               <br />
-              &nbsp;&nbsp;'Python',
+              &nbsp;&nbsp;&#39;Python&#39;,
               <br />
-              &nbsp;&nbsp;'SQL',
+              &nbsp;&nbsp;&#39;SQL&#39;,
               <br />
-              &nbsp;&nbsp;'AWS'
+              &nbsp;&nbsp;&#39;AWS&#39;
               <br />]
             </code>
           </div>
@@ -121,9 +121,9 @@ function About() {
             <h3 className="text-2xl font-bold mb-6">05. Goals</h3>
             <p className="text-white/50">
               My goal is to continue growing as a developer, tackling
-              challenging projects, and contributing to the tech community. I&#39;m
-              always excited to learn technologies and push the boundaries of
-              what's possible in web applications.
+              challenging projects, and contributing to the tech community.
+              I&#39;m always excited to learn technologies and push the
+              boundaries of what&#39;s possible in web applications.
             </p>
           </div>
         </div>
